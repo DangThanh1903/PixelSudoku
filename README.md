@@ -50,6 +50,9 @@ This is a simple Sudoku game developed in Unity. The game features a standard 9x
 - Implement leaderboard and scoring.
 - Add sound effects and animations.
 
+## Note
+- This is only one push. The project's timeline is in my **Unity Version Control**.
+
 ---
 - Here is demo link: https://youtu.be/J0mKnyJhSsg
 
