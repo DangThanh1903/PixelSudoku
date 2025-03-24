@@ -52,4 +52,5 @@ This is a simple Sudoku game developed in Unity. The game features a standard 9x
 
 ---
 - Here is demo link: https://youtu.be/J0mKnyJhSsg
+
 **Enjoy solving Sudoku puzzles!**
